@@ -8,7 +8,7 @@ This dashboard visualizes key insights from an Amazon product review dataset usi
 - KPI Design
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](Amazon_Dashboard_Preview.png)
+Screenshot (85).png
 
 ## 📄 Files Included
 - `Amazon_Dashboard_Preview.png`: Image 
